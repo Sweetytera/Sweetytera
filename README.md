@@ -2,10 +2,10 @@
 
 # SWEETY TERA 🌷
 
-Computer Science | B.Tech 3rd Year  
-📧 terrasweety93@gmail.com  
+Computer Science | 4th Year B.Tech
+📧 [terrasweety93@gmail.com](mailto:terrasweety93@gmail.com)
 
-Building quietly. Growing consistently. 🌱
+Learning. Building. Improving. 🌱
 
 </div>
 
@@ -13,48 +13,74 @@ Building quietly. Growing consistently. 🌱
 
 ## 💫 About Me
 
-3rd-year B.Tech Computer Science student focused on building real-world software.  
-Currently preparing for placements and strengthening problem-solving skills through DSA and backend development.
+4th-year B.Tech Computer Science student focused on software development and problem solving.
+Currently preparing for placements while strengthening my skills in DSA, Java, web development, and backend technologies.
 
-✨ Interested in AI-driven solutions and practical systems that solve real problems.
+I enjoy working on practical projects where I can apply what I have learned and understand how different technologies work together to solve real-world problems.
 
 ---
 
 ## 🛠 Tech Stack
 
-`Java` `Python` `HTML` `CSS` `JavaScript`  
-`Node.js` `MongoDB` `Git` `Firebase`
+**Programming:**
+`Java` `Python` `JavaScript`
+
+**Frontend:**
+`HTML` `CSS` `React.js`
+
+**Backend:**
+`Node.js` `Express.js`
+
+**Databases:**
+`MySQL` `MongoDB` `SQLite`
+
+**Core CS:**
+`DSA` `OOP` `DBMS` `Operating Systems`
+
+**Tools:**
+`Git` `GitHub` `VS Code`
 
 ---
 
 ## 🚀 Projects
 
-### 🥗 HomeBite
-A homemade food platform connecting hostel students with home-style meal providers.  
-Includes meal plans, vendor management, and a clean user interface.
+### 🍳 Recipe Finder
 
-### 🛍 ShopEase
-A functional e-commerce website with authentication, product display, and cart system.  
-Built using HTML, CSS, and JavaScript.
+A responsive recipe discovery application that allows users to search for recipes based on ingredients and view detailed recipe information.
+
+**Tech:** React.js, Vite, Tailwind CSS, TheMealDB API
+
+### 🚦 Real-Time Smart Queue Management System
+
+A web-based queue management system with token generation, queue tracking, CRUD operations, REST APIs, and real-time queue updates.
+
+**Tech:** React.js, Node.js, Express.js, WebSocket/Socket.io
+
+### 🛡️ SafeWalk AI
+
+A safety-aware route recommendation system designed to help users identify safer routes using map and location-based information.
+
+**Tech:** React.js, TypeScript, Node.js, Express.js, SQLite, Leaflet, OpenStreetMap
 
 ---
 
-## 🧠 LeetCode
+## 🧠 Coding Profiles
 
+**LeetCode:**
 https://leetcode.com/in/sweettyy/
 
 ---
 
 ## 🤝 Connect
 
-🌐 GitHub: https://github.com/sweetytera  
-💼 LinkedIn: https://linkedin.com/in/sweetytera  
-📩 Email: terrasweety93@gmail.com  
+🌐 **GitHub:** https://github.com/sweetytera
+💼 **LinkedIn:** https://linkedin.com/in/sweetytera
+📩 **Email:** [terrasweety93@gmail.com](mailto:terrasweety93@gmail.com)
 
 ---
 
 <div align="center">
 
-✨ Stay consistent. Small progress every day. ✨
+✨ Learning through practice. Building through consistency. ✨
 
 </div>
