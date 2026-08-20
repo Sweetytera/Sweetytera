@@ -56,12 +56,6 @@ A web-based queue management system with token generation, queue tracking, CRUD 
 
 **Tech:** React.js, Node.js, Express.js, WebSocket/Socket.io
 
-### 🛡️ SafeWalk AI
-
-A safety-aware route recommendation system designed to help users identify safer routes using map and location-based information.
-
-**Tech:** React.js, TypeScript, Node.js, Express.js, SQLite, Leaflet, OpenStreetMap
-
 ---
 
 ## 🧠 Coding Profiles
